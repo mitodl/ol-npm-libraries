@@ -1213,13 +1213,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:8.4.1":
-  version: 8.4.1
-  resolution: "@types/eslint@npm:8.4.1"
+"@types/eslint@npm:8.56.6":
+  version: 8.56.6
+  resolution: "@types/eslint@npm:8.56.6"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: b5790997ee9d3820d16350192d41849b0e2448c9e93650acac672ddf502e35c0a5a25547172a9eec840a96687cd94ba1cee672cbd86640f8f4ff1b65960d2ab9
+  checksum: 960996940c8702c6e9bf221f2927f088d8f6463ad21ae1eb8260c62642ce48097a79a4277d99cb7cafde6939beadbd79610015fdd08b18679e565bcad5fcd36f
   languageName: node
   linkType: hard
 
@@ -5079,7 +5079,7 @@ __metadata:
     "@changesets/cli": ^2.22.0
     "@testing-library/react": ^13.1.1
     "@testing-library/react-12": "npm:@testing-library/react@^12"
-    "@types/eslint": 8.4.1
+    "@types/eslint": 8.56.6
     "@types/jest": ^27.4.1
     "@types/prettier": 2.6.0
     "@types/react": ^18
